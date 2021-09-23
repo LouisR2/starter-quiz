@@ -1,4 +1,4 @@
-# Starter Quiz - this is a commit to have github badge
+# Starter Quiz.
 
 ## Installation
 
